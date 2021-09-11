@@ -1,0 +1,14 @@
+{
+  "name": "vue-decorator-plus-jousenzhou",
+  "version": "1.0.1",
+  "description": "vue3.0 装饰器插件",
+  "main": "decorator/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue-class-component": "^8.0.0-0"
+  },
+  "author": "JousenZhou",
+  "license": "ISC"
+}
