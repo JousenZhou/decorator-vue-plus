@@ -92,7 +92,7 @@ export default class App extends mixins() {}
 
 参数 :  function | obejct
 
-```
+```vue
 <template>
     <span>{{ a }}</span>
 </template>
